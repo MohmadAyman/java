@@ -27,7 +27,12 @@ public class main
 	m.printArray();
     m.Transpose();
     m.printArray();
-    System.out.println("Date is ");
+    
+    IdentityMatrix im = new IdentityMatrix(2,2);
+    im.SetNumbers(j[1]);
+    im.printArray();
+
+System.out.println("Date is ");
 	}
 
     public main()

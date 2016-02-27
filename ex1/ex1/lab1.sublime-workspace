@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inputNum"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"s",
+				"signup"
+			],
+			[
+				"De",
+				"DEVELHELP"
+			],
+			[
+				"g_pas",
+				"g_pasteAct_edit"
+			],
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"get",
+				"getFiles"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"mous",
+				"mouseEvent"
+			],
+			[
+				"No",
+				"NO_BUTTON"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.java",
+			"settings":
+			{
+				"buffer_size": 1091,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Matrix.java",
+			"settings":
+			{
+				"buffer_size": 1972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "IdentityMatrix.java",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"class",
+				"Snippet: class"
+			],
+			[
+				"java",
+				"Snippet: java.beans."
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"python",
+			"cl",
+			"c",
+			"clear",
+			"grep t",
+			"a*",
+			"java main",
+			"java",
+			"cd .."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mh/school/compilers/scanner.h",
+		"/home/mh/school/java/ex1/ex1/Matrix.java",
+		"/home/mh/.config/sublime-text-3/Packages/User/C.sublime-build",
+		"/home/mh/.config/sublime-text-3/Packages/User/untitled.sublime-build",
+		"/home/mh/ws/node/sails/scotch-io-master/api/services/TodoService.js",
+		"/home/mh/ws/riot/backup2/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/node/sails/scotch-io-master/assets/js/app.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/models.js",
+		"/home/mh/ws/riot/backup2/cpu/native/native_cpu.c",
+		"/home/mh/ws/riot/backup2/cpu/msp430-common/cpu.c",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/models.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/routes.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/controllers/PizzaController.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/models/Todo.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/models/Pizza.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/connections.js",
+		"/home/mh/ws/riot/backup/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/backup/cpu/msp430-common/include/cpu_conf.h",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/models/User.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/controllers/UserController.js",
+		"/home/mh/ws/node/sails/scotch-io-master/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/scotch-io-master/tasks/config/sails-linker.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/session.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/controllers/TodoController.js",
+		"/home/mh/school/lex.l",
+		"/home/mh/ws/riot/riot_isr/RIOTff/tests/shell/main.c",
+		"/home/mh/ws/riot/RIOT_isr/sys/ps/ps.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega2560/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/irq.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/include/cpu.h",
+		"/home/mh/ws/node/sails/todo/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/todo/views/layout.ejs",
+		"/home/mh/ws/riot/riot_isr/RIOTff/cpu/cortexm_common/thread_arch.c",
+		"/home/mh/ws/riot/riot_isr/RIOTff/sys/ps/ps.c",
+		"/home/mh/ws/RIOT/examples/posix_sockets/main.c",
+		"/home/mh/ws/RIOT/examples/posix_sockets/udp.c",
+		"/home/mh/ws/node/sails/ChatApp/config/routes.js",
+		"/home/mh/ws/node/sails/ChatApp/api/controllers/MainController.js",
+		"/home/mh/ws/node/sails/ChatApp/views/layout.ejs",
+		"/home/mh/ws/node/sails/ChatApp/views/main/index.ejs",
+		"/home/mh/ws/riot/RIOT_isr/core/include/arch/thread_arch.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/native_cpu.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/cpu.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/cortexm_common/vectors_cortexm.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/core/include/sched.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/arm_cpu.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/arm_cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/arm7_common.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega_common/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/iap.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/VIC.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/common.s",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega2560/cpu.c",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/atmega2560/include/cpu_conf.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/atmega2560/include/periph_cpu.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/atmega_common/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/include/native_internal.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/include/cpu.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/native/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/cortexm_common/thread_arch.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/cortexm_common/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega_common/thread_arch.c",
+		"/home/mh/ws/node/sails/scotch-io-master/node_modules/sails-mysql/node_modules/mysql/lib/protocol/Parser.js",
+		"/home/mh/ws/node/sails/scotch-io-master/node_modules/sails-mysql/node_modules/mysql/lib/Connection.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/connections.js",
+		"/home/mh/ws/node/sails/ChatApp/api/models/Messages.js",
+		"/home/mh/ws/node/sails/ChatApp/api/models/Users.js",
+		"/home/mh/ws/node/learnnode/untitled.js",
+		"/home/mh/ws/node/learnnode/udpclient.js",
+		"/home/mh/ws/riot/riot_isr/RIOTff/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/node/sails/ChatApp/views/main/chat.ejs",
+		"/home/mh/.cache/.fr-6gySbG/backup5/backup 3/data_base_project1/data_base_project1/STOP_SERVER.Designer.cs",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/routes.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/sockets.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/log.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/tasks/register/compileAssets.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/assets/js/private/dashboard/DashboardController.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/assets/js/private/dashboard/DashboardModule.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/controllers/PageController.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/assets/js/public/signup/SignupController.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/assets/js/public/signup/SignupModule.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/responses/emailAddressInUse.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/policies/sessionAuth.js",
+		"/home/mh/ws/java/hello.java",
+		"/home/mh/ws/node/sails/ChatApp/views/homepage.ejs",
+		"/home/mh/ws/esp8266/ws2812esp8266/app2/user_webserver.c",
+		"/home/mh/ws/esp8266/esp_iot_sdk_v0.9.3/examples/IoT_Demo/user/user_main.c",
+		"/home/mh/ws/ws2812esp8266/user/user_main.c",
+		"/home/mh/school/lex.yy.c",
+		"/home/mh/school/out",
+		"/home/mh/ws/gazebo/gazebo/gui/MainWindow.hh",
+		"/home/mh/ws/node/sails/todo/assets/js/service/TodoService.js",
+		"/home/mh/ws/node/sails/todo/assets/templates/todo.js",
+		"/home/mh/ws/node/sails/todo/assets/templates/todo.html",
+		"/home/mh/ws/node/spa/spa.html",
+		"/home/mh/ws/node/spa/spa.js",
+		"/home/mh/ws/node/sails/todo/api/controllers/UserController.js",
+		"/home/mh/ws/node/sails/todo/api/models/Todo.js",
+		"/home/mh/ws/node/sails/todo/assets/js/app.js",
+		"/home/mh/ws/python/MIsec1.py",
+		"/home/mh/ws/python/shark.py",
+		"/home/mh/ws/gazebo/gazebo/gui/ModelListWidget.cc",
+		"/home/mh/ws/riot/riot_isr/RIOTff/cpu/stm32f0/include/cpu_conf.h",
+		"/home/mh/ws/riot/riot_isr/RIOTff/cpu/stm32f0/vectors.c",
+		"/home/mh/ws/riot/riot-gpio/examples/default/main.c",
+		"/home/mh/ws/riot/riot-gpio/examples/posix_sockets/main.c",
+		"/home/mh/ws/gazebo/gazebo/gui/MainWindow.cc",
+		"/home/mh/ws/riot/riot-gpio/examples/ccn-lite-relay/main.c",
+		"/home/mh/ws/riot/riot-gpio/examples/gnrc_border_router/main.c",
+		"/home/mh/ws/riot/riot-gpio/examples/riot_and_cpp/main.cpp",
+		"/home/mh/ws/node/sails/todo/views/homepage.ejs",
+		"/home/mh/ws/node/sails/scotch-io-master/views/homepage.ejs",
+		"/home/mh/ws/node/sails/activityoverlord20-master/app.js",
+		"/home/mh/Downloads/scotch-io-master/assets/js/app.js",
+		"/home/mh/Downloads/scotch-io-master/app.js",
+		"/home/mh/Downloads/scotch-io-master/tasks/pipeline.js",
+		"/home/mh/Downloads/scotch-io-master/views/layout.ejs",
+		"/home/mh/Downloads/scotch-io-master/views/homepage.ejs",
+		"/media/mh/NEW VOLUME/lab/apps/first_lab.c",
+		"/home/mh/ws/node/sails/todo/api/services/TodoService.js",
+		"/home/mh/ws/node/sails/todo/api/controllers/TodoController.js",
+		"/home/mh/ws/node/sails/todo/api/models/User.js",
+		"/home/mh/ws/gazebo/gazebo/Server.hh",
+		"/home/mh/ws/gazebo/gazebo/msgs/msgs.cc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"]);\n",
+			"isr",
+			"__isr_stack",
+			"SIGSTKSZ",
+			"isr",
+			"tcp",
+			"udp",
+			"Users",
+			"Users.findByUsername",
+			"enable physics",
+			"item = this->dataPtr->variantManager->addProperty",
+			"physics",
+			"isr",
+			"g_pasteAct",
+			"CreateActions",
+			"g_resetModelsAct",
+			"g_saveAct",
+			"g_openAct",
+			"g_copyAct",
+			"g_openAct",
+			"g_copyAct",
+			"g_saveAct",
+			"g_openAct",
+			"g_copyAct",
+			"SaveINI",
+			"g_copyAct",
+			"Copy Entity",
+			"close",
+			"SaveINI",
+			"connect",
+			"SaveAs",
+			"g_saveAct",
+			"todoapp",
+			"server",
+			"Msg",
+			"msg",
+			" ",
+			"vector",
+			"list",
+			"vector",
+			"maze1",
+			"isr_exti",
+			"GPIO_NUMOF",
+			"_type",
+			"msgs::Joint",
+			"SetVisible",
+			"ShowAxisHead",
+			"AxisVisual",
+			"ShowHead",
+			"ArrowVisualPtr",
+			"SetVisible",
+			"CreateAxis",
+			"arrow",
+			"reset",
+			"arrow",
+			"green",
+			"arrow",
+			"uart",
+			"uart_stdio_init",
+			"gpio_read(gpio_t pin)",
+			"gpio_init(gpio_t pin, gpio_dir_t dir, gpio_pp_t pullup)",
+			"gpio_isr_ctx_t",
+			"bsrrl",
+			"wifi_set_opmode",
+			"mode",
+			"wifi_set_opmode",
+			"bsrr",
+			"GPIO_ISR_CHAN_NUMOF",
+			"exti_ctx",
+			"'exti_ctx",
+			"exti_ctx_t",
+			"QtAbstractPropertyManager",
+			"Manager",
+			"link",
+			"enable",
+			"physics",
+			"world",
+			"GetParam",
+			"GetType",
+			"remove_scene",
+			"world",
+			"GetType",
+			"world",
+			"type",
+			"gettype",
+			"getelement",
+			"type",
+			"gettype",
+			"GetParam",
+			"type",
+			"Gettype",
+			"GetType",
+			"type",
+			"GetGravity",
+			"msgs",
+			"get",
+			"type",
+			"physicsMsg",
+			"get",
+			"bulletElem",
+			"bulletElem->GetElement",
+			"GetElement",
+			"getparam",
+			"profile_",
+			"cfm",
+			"sor",
+			"Physics",
+			"QtVariantProperty",
+			"solver_type",
+			"enable p",
+			"models",
+			"ground",
+			"gravi",
+			"plane",
+			"msg.get",
+			"msg.set",
+			"solver_type",
+			"msg.",
+			"profile_name",
+			"physicsMsg",
+			"trans",
+			"enable_physics",
+			"real_time_factor",
+			"precon_iters",
+			"magnetic_field",
+			"propTreeBrowser",
+			"propTreeBrowser->properties",
+			"propertyChanged"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Matrix.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "IdentityMatrix.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lab1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

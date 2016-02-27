@@ -10,10 +10,9 @@ import java.util.List;
 public class Matrix 
 {
     // instance variables - replace the example below with your own
-    private int x;
-    private int m;
-    private int n;
-    private Object[][] list;
+    protected int m;
+    protected int n;
+    protected Object[][] list;
         
     public <T> void swap (T[][] a) {
       T[][] b = a;
@@ -31,7 +30,6 @@ public class Matrix
     public Matrix()
     {
         // initialise instance variables
-        x = 0;
     }
     public Matrix(int m, int n)
     {
