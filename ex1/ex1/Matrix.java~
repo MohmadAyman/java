@@ -1,0 +1,68 @@
+
+import java.util.ArrayList;
+import java.util.List;
+/**
+ * Write a description of class Matrix here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Matrix 
+{
+    // instance variables - replace the example below with your own
+    private int x;
+    private int m;
+    private int n;
+    private Object[][] list;
+    /**
+     * Constructor for objects of class Matrix
+     */
+    public Matrix()
+    {
+        // initialise instance variables
+        x = 0;
+    }
+    public Matrix(int m, int n)
+    {
+        System.out.println("Constructed a Matrix");
+        this.m = m;
+        this.n = n;
+        // initialise instance variables
+        list = new Object[m][n];
+    }    
+    
+    /**
+     * An example of a method - replace this comment with your own
+     * 
+     * @param  y   a sample parameter for a method
+     * @return     the sum of x and y 
+     */
+    public < E > boolean SetNumbers(E[] inputArray)
+    {
+        // put your code here
+      for (E element : inputArray) {
+          for(int i=0; i<this.n; i++){
+            for(int j=0; j<this.m; j++){
+            this.list[i][j] = element;
+            }
+            }
+        }
+        return false;
+    }
+    
+    public < E > void printArray() {
+       
+          for(int i=0; i<this.n; i++){
+            for(int j=0; j<this.m; j++){
+              System.out.println(this.list[i][j]);
+            }
+             System.out.println();
+        } 
+    }
+    
+    public static < E > void Transpose(E[] inputArray)
+    {
+        
+    }
+    
+}

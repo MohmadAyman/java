@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Matrix()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Matrix\n
+comment1.params=m\ n
+comment1.target=Matrix(int,\ int)
+comment2.params=inputArray
+comment2.target=boolean\ SetNumbers(java.lang.Object[])
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment3.params=
+comment3.target=void\ printArray()
+comment4.params=inputArray
+comment4.target=void\ Transpose(java.lang.Object[])
+numComments=5
