@@ -14,16 +14,16 @@ public class Matrix
     protected int n;
     protected Object[][] list;
         
-    public <T> void swap (T[][] a) {
-      T[][] b = a;
-       for(int i=0; i<this.n; i++){
-          for(int j=0; j<this.m; j++){
-            this.list[i][j] = b[j][i];
-                System.out.println(b[0][1]);
-            }
-        }
-      printArray();
-    }
+    private <T> void swap (T[][] a) {
+
+        Object[][] temp = new Object[m][n];
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < m; j++)
+                temp[j][i] = a[i][j];
+  
+    list = temp;
+    printArray();
+     }
     /**
      * Constructor for objects of class Matrix
      */

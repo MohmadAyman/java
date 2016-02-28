@@ -18,7 +18,7 @@ public class main
 	Matrix m = new Matrix(2,2);
 	Integer[] i = new Integer[2];
 	Double[] j = new Double[4];
-
+    i[0]=1;
 	j[0]=1.1;
 	j[1]=1.2;
 	j[2]=0.3;
@@ -29,10 +29,8 @@ public class main
     m.printArray();
     
     IdentityMatrix im = new IdentityMatrix(2,2);
-    im.SetNumbers(j[1]);
+    im.SetNumbers(i[0]);
     im.printArray();
-
-System.out.println("Date is ");
 	}
 
     public main()

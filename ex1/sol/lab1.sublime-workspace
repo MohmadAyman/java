@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"pri",
+				"printArray"
+			],
+			[
 				"in",
 				"inputNum"
 			],
@@ -59,7 +63,7 @@
 			"file": "main.java",
 			"settings":
 			{
-				"buffer_size": 1091,
+				"buffer_size": 1069,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +71,7 @@
 			"file": "Matrix.java",
 			"settings":
 			{
-				"buffer_size": 1972,
+				"buffer_size": 1949,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,7 +79,7 @@
 			"file": "IdentityMatrix.java",
 			"settings":
 			{
-				"buffer_size": 464,
+				"buffer_size": 854,
 				"line_ending": "Unix"
 			}
 		}
@@ -444,15 +448,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1091,
+						"buffer_size": 1069,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								540,
-								540
+								600,
+								600
 							]
 						],
 						"settings":
@@ -462,7 +466,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 268.0,
+						"translation.y": 105.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -474,15 +478,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1972,
+						"buffer_size": 1949,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								742,
-								742
+								1872,
+								1872
 							]
 						],
 						"settings":
@@ -492,7 +496,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 704.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -504,20 +508,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 464,
+						"buffer_size": 854,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								20
+								258,
+								258
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Java/Java.sublime-syntax"
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -562,7 +568,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 146.0
+		"height": 113.0
 	},
 	"output.find_results":
 	{
