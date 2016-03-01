@@ -22,7 +22,17 @@ class IdentityMatrix extends Matrix {
        System.out.println("Idintty has to take a one");
         return false;
       }
-      super(inputNum);
+      System.out.println("shouldnt be here if false");
+
+      for (int i = 0;i<this.n ; i++) {
+      	for (int j =0;j<this.m ;j++ ) {
+      		if(i==j)
+      			this.list[i][j]=inputNum;
+      		else
+      			this.list[i][j]=0;
+      	}
+      	
+      }
       return true;
     }
 
