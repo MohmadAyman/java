@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"SetNumbers"
+			],
+			[
+				"pri",
+				"printArray"
+			],
+			[
+				"in",
+				"inputNum"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"De",
+				"DEVELHELP"
+			],
+			[
+				"g_pas",
+				"g_pasteAct_edit"
+			],
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"get",
+				"getFiles"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"mous",
+				"mouseEvent"
+			],
+			[
+				"No",
+				"NO_BUTTON"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"class",
+				"Snippet: class"
+			],
+			[
+				"java",
+				"Snippet: java.beans."
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"python",
+			"cl",
+			"c",
+			"clear",
+			"grep t",
+			"a*",
+			"java main",
+			"java",
+			"cd .."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mh/ws/node/sails/scotch-io-master/api/models/Todo.js",
+		"/home/mh/ws/node/sails/dirtyscotch-io-master/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/dirtyscotch-io-master/config/models.js",
+		"/home/mh/ws/node/sails/dirtyscotch-io-master/api/models/Quiz.js",
+		"/home/mh/ws/node/sails/dirtyscotch-io-master/api/models/Todo.js",
+		"/home/mh/ws/node/angular-quiz-app-master/app/templates/questions.html",
+		"/home/mh/ws/node/sails/scotch-io-master/assets/templates/todo.html",
+		"/home/mh/ws/node/sails/scotch-io-master/assets/js/app.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/routes.js",
+		"/home/mh/ws/node/sails/todoFromScratch/config/models.js",
+		"/home/mh/ws/node/sails/todoFromScratch/config/routes.js",
+		"/home/mh/ws/node/sails/todoFromScratch/assets/js/service/TodoService.js",
+		"/home/mh/ws/node/sails/todoFromScratch/assets/templates/todo.html",
+		"/home/mh/ws/node/sails/todoFromScratch/api/controllers/TodoController.js",
+		"/home/mh/ws/node/sails/todoFromScratch/api/models/Todo.js",
+		"/home/mh/ws/node/sails/todoFromScratch/api/services/TodoService.js",
+		"/home/mh/ws/node/sails/todoFromScratch/assets/js/app.js",
+		"/home/mh/ws/node/sails/todoFromScratch/views/homepage.ejs",
+		"/home/mh/ws/node/sails/scotch-io-master/views/homepage.ejs",
+		"/home/mh/ws/node/sails/scotch-io-master/views/layout.ejs",
+		"/home/mh/ws/node/sails/todoFromScratch/views/layout.ejs",
+		"/home/mh/ws/node/sails/scotch-io-master/config/models.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/sockets.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/services/TodoService.js",
+		"/home/mh/ws/node/sails/scotch-io-master/assets/js/services/TodoService.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/controllers/TodoController.js",
+		"/home/mh/ws/node/sails/todoFromScratch/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/controllers/PizzaController.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/controllers/QuizController.js",
+		"/home/mh/ws/node/angular-quiz-app-master/scripts/web-server.js",
+		"/home/mh/ws/node/sails/todoFromScratch/package.json",
+		"/home/mh/ws/node/sails/todoFromScratch/tasks/pipline.js",
+		"/home/mh/ws/node/sails/scotch-io-master/assets/js/dependencies/sails.io.js",
+		"/home/mh/school/java/ex3/Code Examples/example_11.java",
+		"/home/mh/school/java/ex3/Code Examples/example_10.java",
+		"/home/mh/school/java/ex3/Code Examples/example_9.java",
+		"/home/mh/school/java/ex3/Code Examples/example_8.java",
+		"/home/mh/school/java/ex3/Code Examples/example_7.java",
+		"/home/mh/school/java/ex3/Code Examples/example_6.java",
+		"/home/mh/school/java/ex3/Code Examples/example_5.java",
+		"/home/mh/school/java/ex3/Code Examples/example_4.java",
+		"/home/mh/school/java/ex3/Code Examples/example_3.java",
+		"/home/mh/school/java/ex3/Code Examples/example_2.java",
+		"/home/mh/school/java/ex3/Code Examples/example_1.java",
+		"/home/mh/school/java/ex3/Code Examples/ex2_student.java",
+		"/home/mh/ws/gazebo/plugins/RandomVelocityPlugin.cc",
+		"/home/mh/school/java/ex2/Code Examples/example_5.java",
+		"/home/mh/school/java/ex2/Code Examples/example_4.java",
+		"/home/mh/school/java/ex2/Code Examples/example_3.java",
+		"/home/mh/school/java/ex2/Code Examples/example_1.java",
+		"/home/mh/school/java/ex2/Code Examples/example_2.java",
+		"/home/mh/ws/gazebo/gazebo/gui/MainWindow.cc",
+		"/home/mh/.cache/.fr-Q404lR/WeeESP8266/ESP8266.cpp",
+		"/home/mh/Desktop/Ep. 251 - 252 | The God of High School.html",
+		"/home/mh/Downloads/evothings-examples-master/examples/esp8266/app/index.html",
+		"/home/mh/.cache/.fr-nyO2Ur/WeeESP8266/ESP8266.h",
+		"/home/mh/school/java/ex1/sol/IdentityMatrix.java",
+		"/home/mh/school/java/ex1/sol/Matrix.java",
+		"/home/mh/.cache/.fr-6hPzAS/WeeESP8266/ESP8266.h",
+		"/home/mh/.cache/.fr-B4LNPa/WeeESP8266/ESP8266.cpp",
+		"/home/mh/.cache/.fr-Hsy2Un/WeeESP8266/doxygen.h",
+		"/home/mh/.cache/.fr-K8YO2t/WeeESP8266/ESP8266.h",
+		"/home/mh/Downloads/arduino-1.6.7/hardware/arduino/avr/cores/arduino/HardwareSerial.h",
+		"/usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.cpp",
+		"/usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.h",
+		"/home/mh/school/java/ex1/sol/main.java",
+		"/home/mh/school/compilers/scanner.h",
+		"/home/mh/school/java/ex1/ex1/Matrix.java",
+		"/home/mh/.config/sublime-text-3/Packages/User/C.sublime-build",
+		"/home/mh/.config/sublime-text-3/Packages/User/untitled.sublime-build",
+		"/home/mh/ws/riot/backup2/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/backup2/cpu/native/native_cpu.c",
+		"/home/mh/ws/riot/backup2/cpu/msp430-common/cpu.c",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/models.js",
+		"/home/mh/ws/node/sails/scotch-io-master/api/models/Pizza.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/connections.js",
+		"/home/mh/ws/riot/backup/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/backup/cpu/msp430-common/include/cpu_conf.h",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/models/User.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/api/controllers/UserController.js",
+		"/home/mh/ws/node/sails/scotch-io-master/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/scotch-io-master/tasks/config/sails-linker.js",
+		"/home/mh/ws/node/sails/scotch-io-master/config/session.js",
+		"/home/mh/school/lex.l",
+		"/home/mh/ws/riot/riot_isr/RIOTff/tests/shell/main.c",
+		"/home/mh/ws/riot/RIOT_isr/sys/ps/ps.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega2560/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/irq.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/include/cpu.h",
+		"/home/mh/ws/node/sails/todo/tasks/pipeline.js",
+		"/home/mh/ws/node/sails/todo/views/layout.ejs",
+		"/home/mh/ws/riot/riot_isr/RIOTff/cpu/cortexm_common/thread_arch.c",
+		"/home/mh/ws/riot/riot_isr/RIOTff/sys/ps/ps.c",
+		"/home/mh/ws/RIOT/examples/posix_sockets/main.c",
+		"/home/mh/ws/RIOT/examples/posix_sockets/udp.c",
+		"/home/mh/ws/node/sails/ChatApp/config/routes.js",
+		"/home/mh/ws/node/sails/ChatApp/api/controllers/MainController.js",
+		"/home/mh/ws/node/sails/ChatApp/views/layout.ejs",
+		"/home/mh/ws/node/sails/ChatApp/views/main/index.ejs",
+		"/home/mh/ws/riot/RIOT_isr/core/include/arch/thread_arch.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/native_cpu.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/cpu.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/cortexm_common/vectors_cortexm.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/msp430-common/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/core/include/sched.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/arm_cpu.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/arm_cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/arm7_common.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega_common/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/iap.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/include/VIC.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/native/include/cpu_conf.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/arm7_common/common.s",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega2560/cpu.c",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/atmega2560/include/cpu_conf.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/atmega2560/include/periph_cpu.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/atmega_common/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/include/native_internal.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/native/include/cpu.h",
+		"/home/mh/ws/riot/riot_isr/RIOTOriginal/cpu/native/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/cortexm_common/thread_arch.c",
+		"/home/mh/ws/riot/RIOT_isr/cpu/cortexm_common/include/cpu.h",
+		"/home/mh/ws/riot/RIOT_isr/cpu/atmega_common/thread_arch.c",
+		"/home/mh/ws/node/sails/scotch-io-master/node_modules/sails-mysql/node_modules/mysql/lib/protocol/Parser.js",
+		"/home/mh/ws/node/sails/scotch-io-master/node_modules/sails-mysql/node_modules/mysql/lib/Connection.js",
+		"/home/mh/ws/node/sails/activityoverlord20-master/config/connections.js",
+		"/home/mh/ws/node/sails/ChatApp/api/models/Messages.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"todo",
+			"controllers",
+			"quiz",
+			"ng-app",
+			"thread",
+			"edit",
+			"g_editModelAct",
+			"edit",
+			"pin",
+			"buffer",
+			"]);\n",
+			"isr",
+			"__isr_stack",
+			"SIGSTKSZ",
+			"isr",
+			"tcp",
+			"udp",
+			"Users",
+			"Users.findByUsername",
+			"enable physics",
+			"item = this->dataPtr->variantManager->addProperty",
+			"physics",
+			"isr",
+			"g_pasteAct",
+			"CreateActions",
+			"g_resetModelsAct",
+			"g_saveAct",
+			"g_openAct",
+			"g_copyAct",
+			"g_openAct",
+			"g_copyAct",
+			"g_saveAct",
+			"g_openAct",
+			"g_copyAct",
+			"SaveINI",
+			"g_copyAct",
+			"Copy Entity",
+			"close",
+			"SaveINI",
+			"connect",
+			"SaveAs",
+			"g_saveAct",
+			"todoapp",
+			"server",
+			"Msg",
+			"msg",
+			" ",
+			"vector",
+			"list",
+			"vector",
+			"maze1",
+			"isr_exti",
+			"GPIO_NUMOF",
+			"_type",
+			"msgs::Joint",
+			"SetVisible",
+			"ShowAxisHead",
+			"AxisVisual",
+			"ShowHead",
+			"ArrowVisualPtr",
+			"SetVisible",
+			"CreateAxis",
+			"arrow",
+			"reset",
+			"arrow",
+			"green",
+			"arrow",
+			"uart",
+			"uart_stdio_init",
+			"gpio_read(gpio_t pin)",
+			"gpio_init(gpio_t pin, gpio_dir_t dir, gpio_pp_t pullup)",
+			"gpio_isr_ctx_t",
+			"bsrrl",
+			"wifi_set_opmode",
+			"mode",
+			"wifi_set_opmode",
+			"bsrr",
+			"GPIO_ISR_CHAN_NUMOF",
+			"exti_ctx",
+			"'exti_ctx",
+			"exti_ctx_t",
+			"QtAbstractPropertyManager",
+			"Manager",
+			"link",
+			"enable",
+			"physics",
+			"world",
+			"GetParam",
+			"GetType",
+			"remove_scene",
+			"world",
+			"GetType",
+			"world",
+			"type",
+			"gettype",
+			"getelement",
+			"type",
+			"gettype",
+			"GetParam",
+			"type",
+			"Gettype",
+			"GetType",
+			"type",
+			"GetGravity",
+			"msgs",
+			"get",
+			"type",
+			"physicsMsg",
+			"get",
+			"bulletElem",
+			"bulletElem->GetElement",
+			"GetElement",
+			"getparam",
+			"profile_",
+			"cfm",
+			"sor",
+			"Physics",
+			"QtVariantProperty",
+			"solver_type",
+			"enable p",
+			"models",
+			"ground",
+			"gravi",
+			"plane",
+			"msg.get",
+			"msg.set",
+			"solver_type",
+			"msg."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 113.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
